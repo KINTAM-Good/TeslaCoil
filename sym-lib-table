@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "raspberrypi_zerow_uhat-cache")(type "Legacy")(uri "${KIPRJMOD}/kicad-rpiz-uhat-template-master/raspberrypi_zerow_uhat/raspberrypi_zerow_uhat-cache.lib")(options "")(descr ""))
+  (lib (name "raspberrypi_zero_wh")(type "KiCad")(uri "${KIPRJMOD}/kicad-rpiz-uhat-template-master/raspberrypi_zerow_uhat/raspberrypi_zero_wh.kicad_sym")(options "")(descr ""))
+)
