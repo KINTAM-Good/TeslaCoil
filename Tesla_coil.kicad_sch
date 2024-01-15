@@ -2752,7 +2752,7 @@
   (symbol (lib_id "Device:C") (at 237.49 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 10ad52cb-daf6-496e-b32d-9fcafbf6bf61)
-    (property "Reference" "C1(共振用コンデンサ)" (at 237.49 138.43 90)
+    (property "Reference" "C1(共振用コンデンサ)1" (at 237.49 138.43 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "C" (at 237.49 140.97 90)
@@ -2769,7 +2769,7 @@
     (instances
       (project "Tesla_coil"
         (path "/2ab42e57-c957-4bd7-a444-baf556b38540"
-          (reference "C1(共振用コンデンサ)") (unit 1)
+          (reference "C1(共振用コンデンサ)1") (unit 1)
         )
       )
     )
@@ -3801,7 +3801,7 @@
   (symbol (lib_id "Device:C") (at 91.44 31.75 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7fc13f83-2c33-43c4-a7d2-2ba392c1f0f6)
-    (property "Reference" "C" (at 95.25 30.48 0)
+    (property "Reference" "C9" (at 95.25 30.48 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "470p" (at 95.25 33.02 0)
@@ -3818,7 +3818,7 @@
     (instances
       (project "Tesla_coil"
         (path "/2ab42e57-c957-4bd7-a444-baf556b38540"
-          (reference "C") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
